@@ -7,21 +7,23 @@ Estudante de Análise e Desenvolvimento de Sistemas • Desenvolvedor em formaç
 ---
 
 ## 👨‍💻 Sobre mim
-Sou estudante de ADS e estou construindo minha base em programação e desenvolvimento de software.  
-Meu foco é aprender fazendo projetos reais e evoluir para uma carreira como desenvolvedor.
+Sou estudante de Análise e Desenvolvimento de Sistemas, construindo minha base em programação e desenvolvimento de software.
+Meu foco é aprender na prática, desenvolvendo projetos reais e evoluindo para uma carreira como desenvolvedor de software.
 
 ---
 
 ## 📚 Em aprendizado
-- Lógica de programação  
-- Git e GitHub  
-- Fundamentos de programação  
-- Desenvolvimento de software  
+• Lógica de Programação
+• Fundamentos de Programação
+• Algoritmos e Estruturas de Dados (iniciante)
+• Desenvolvimento de Software
+• Cloud Computing e DevOps (AWS) — em aprendizado
+
 
 ---
 
 ## 🎯 Objetivo
-Entrar na área de tecnologia como estagiário ou desenvolvedor júnior.
+Atuar na área de tecnologia como estagiário ou desenvolvedor júnior, contribuindo com projetos reais e evoluindo tecnicamente.
 
 ---
 
