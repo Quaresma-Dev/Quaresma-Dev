@@ -14,13 +14,14 @@ Meu foco é aprender na prática, desenvolvendo projetos reais e evoluindo para 
 
 ## 📚 Em aprendizado
 
-• Lógica de Programação
-• Fundamentos de Programação
-• Algoritmos e Estruturas de Dados (iniciante)
-• Desenvolvimento de Software
-• Cloud Computing e DevOps (AWS) — em aprendizado
+- Lógica de Programação
+- Fundamentos de Programação
+- Algoritmos e Estruturas de Dados (iniciante)
+- Desenvolvimento de Software 
+- Cloud Computing e DevOps (AWS) — em aprendizado
 
 
+ 
 ---
 
 ## 🎯 Objetivo
